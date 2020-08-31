@@ -1,4 +1,4 @@
-# title waiting for edited  
+# Data analysis and model building for traffic accident prediction  
 ## Introduction  
 Imagine you are driving on a highway, you might feel lucky that a traffic jam happened on your opposite direction, but, what if the jam happened on your side? Would it be super annoying?   
 According to a survey, traffic jams are mostly caused by accidents. If the severe level of accidents can be determined with involved factors, anticipated warnings or actions can be implemented to prevent further high volume of traffic inflow, which can not only avoid traffic jams but also accelerate the cleanse of accident site. Any further policies could also be drawn on places where the occurrence of traffic accidents was frequent.  

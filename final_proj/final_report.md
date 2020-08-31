@@ -8,8 +8,12 @@ According to a survey, traffic jams are mostly caused by accidents. If the sever
 The dataset that will be used in this analysis is retrieved from Seattle Department of Transportation. It records all types of collisions since 2004. It includes the number of injuries or fatalities in every accident, whether a pedestrian or a bicycle or other traffic participants were involved, and variables where the accidents happened such as road condition, weather condition, light condition, etc.  
 The dataset has 194,673 records and 38 columns, the target variable is 'SEVERITYCODE', which uses numbers to indicate the levels severity related to the accident. The details of 'SEVERITYCODE' is as follows:
 
-> 3 - fatality
-> 2b - serious injury
-> 2 - injury
-> 1 - prop damage
+> 3 - fatality  
+>
+> 2b - serious injury  
+>
+> 2 - injury  
+>
+> 1 - prop damage  
+>
 > 0 - unknown
